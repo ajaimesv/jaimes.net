@@ -1,3 +1,1 @@
-# jaimes.net
-
 Somehow I'm going to move [https://jaimes.net](jaimes.net) over here...
