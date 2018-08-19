@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.markdown-body {
+  font-size: 1.5em;
+  line-height: 1.8em;
+}
+.markdown-body h2 {
+  margin-top: 2em;
+}
+.markdown-body p {
+  margin-bottom: 1.5em;
+}
