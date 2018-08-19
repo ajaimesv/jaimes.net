@@ -2,7 +2,7 @@
 
 I'm looking for a stable UNIX like distribution for installing Java 9 or newer and Oracle XE as a virtual machine. I looked at Solaris as a first option, you know, same company, easy integration...
 
-I downloaded Solaris x86. So far so good. Then looked for the latest Java [JDK distribution](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html) and big surprise was that Oracle does not have a JDK version for its own x64 version. Big disappointment. Same luck at the [OpenJDK prebuilt packages](http://openjdk.java.net/install/index.html) page.
+I downloaded and installed Solaris x86 on VMware Fusion. So far so good. Then looked for the latest Java [JDK distribution](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html) and big surprise was that Oracle does not have a JDK version for its own x64 version. Big disappointment. Same luck at the [OpenJDK prebuilt packages](http://openjdk.java.net/install/index.html) page.
 
 Since I didn't want to (even try to) compile OpenJDK I decided to stick with the linux option. Now, which Linux? I have used RedHat, CentOS, FreeBSD (I know not Linux, blah, blah) and Ubuntu – being this one my favorite but this time I was looking for something light. CentOS would have been my immediate option, but I stopped using it when they moved away from `initd` for version 7. Long story short, I ended up reading about Debian, and its stable version looked very compelling to me, because it offers a small footprint, the apt package manager, init.d, and since I'm familiar with Ubuntu I'm not expecting any big issues during the regular operation.
 
