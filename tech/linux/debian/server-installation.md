@@ -1,6 +1,4 @@
-# Debian
-
-## Why Debian
+# Installing a Debian server
 
 I'm looking for a stable UNIX like distribution for installing Java 9 or newer and Oracle XE as a virtual machine. I looked at Solaris as a first option, you know, same company, easy integration...
 
