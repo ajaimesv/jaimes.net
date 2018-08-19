@@ -13,3 +13,13 @@
 .markdown-body p {
   margin-bottom: 1.5em;
 }
+.markdown-body a {
+  color: #6C8FAC;
+  padding: 0 .1em;
+}
+.markdown-body a:hover {
+  background-color: #7CA4C6;
+  border-radius: 3px;
+  color: #fff;
+  text-decoration: none;
+}
