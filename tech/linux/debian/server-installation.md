@@ -45,7 +45,7 @@ Again, there is no *.deb* or *.tar.gz* installation file for [Oracle XE](http://
 The answer was No. My final goal is to have a set of microservices running with their own redundant database instances. MySQL can do this work with a smaller footprint. Another option would be to use PostgreSQL, but my operations guy is more familiar with MySQL (and does not want to learn another). So, see you next time my beloved Oracle.
 
 
-## MySQL Server... no... MariaDB
+## MySQL Server (the wrong one)
 
 The following shows how the process trying to install MySQL got me into installing MariaDB. Debian promotes the use of open source code, hence this was the default option for MySQL.
 
