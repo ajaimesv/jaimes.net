@@ -42,7 +42,7 @@ Done.
 
 Again, there is no *.deb* or *.tar.gz* installation file for [Oracle XE](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html) but found the following [installation process](https://www.davidpashley.com/articles/oracle-install/)... for version 10. The current one is 11.2. Bummer. I was like, do I really need it?
 
-The answer was No. My final goal is to have a set of microservices running with their own redundant database instances. MySQL can do this work with a smaller footprint. Another option would be to use PostgreSQL, but my operations guy is more familiar with MySQL (and does not want to learn another). So, see you next time my beloved Oracle.
+The answer was No. My final goal is to have a set of microservices running with their own redundant database instances. MySQL can do this work with a smaller footprint. Another option would be to use PostgreSQL, but my operations guy is more familiar with MySQL (and does not want to learn another).
 
 
 ## MySQL Server (the wrong one)
