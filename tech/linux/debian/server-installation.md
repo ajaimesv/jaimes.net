@@ -10,7 +10,8 @@ I will see how easy or difficult is to make OpenJDK and Oracle XE work on it.
 
 ## Debian Installation
 
-* Use the graphical installer, which has the same options as the text one, and does not install any additional package.
+* Downloaded the [small installation image](https://www.debian.org/distrib/netinst) for amd64.
+* Used the graphical installer, which has the same options as the text one, and does not install any additional package.
 * Left the root password empty, so that I'm forced to use sudo.
 * For Grub I selected `/dev/sda` – I didn't understand what the manual option meant.
 * When selecting packages I chose none – no *desktop environment*, nor *standard system utilities*. Really nothing.
